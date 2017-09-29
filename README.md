@@ -1,2 +1,2 @@
 # hello-world
-displays Hello World!
+Check in/ Check out
